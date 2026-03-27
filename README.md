@@ -9,11 +9,14 @@ This project builds a dense autoencoder model trained only on normal ECG data, w
 
   
 ### Required libraries:
-- TensorFlow >= 1.2
-- Keras >= 2.0
-- Pandas >= 1.0
-- Numpy >= 1.0
-- Scikit-learn >= 0.22
+- Pandas >= 2.3.3
+- Numpy >= 2.3.4
+- TensorFlow >= 2.10
+- matplotlib >= 3.10.7
+- seaborn >= 0.13.2
+- scipy >= 1.16.3
+- Keras >= 3.13.2
+- Scikit-learn >= 1.7.2
 - Jupyter
 
 ## Installing
